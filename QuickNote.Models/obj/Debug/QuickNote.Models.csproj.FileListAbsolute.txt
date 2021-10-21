@@ -1,0 +1,6 @@
+C:\Users\oneda\source\repos\QuickNote\QuickNote.Models\bin\Debug\QuickNote.Models.dll
+C:\Users\oneda\source\repos\QuickNote\QuickNote.Models\bin\Debug\QuickNote.Models.pdb
+C:\Users\oneda\source\repos\QuickNote\QuickNote.Models\obj\Debug\QuickNote.Models.csproj.AssemblyReference.cache
+C:\Users\oneda\source\repos\QuickNote\QuickNote.Models\obj\Debug\QuickNote.Models.csproj.CoreCompileInputs.cache
+C:\Users\oneda\source\repos\QuickNote\QuickNote.Models\obj\Debug\QuickNote.Models.dll
+C:\Users\oneda\source\repos\QuickNote\QuickNote.Models\obj\Debug\QuickNote.Models.pdb
